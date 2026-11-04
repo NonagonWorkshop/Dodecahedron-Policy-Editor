@@ -30,13 +30,16 @@ echo "
       because they know what they are doing, thanks"
 
       cd /etc
+      mkdir /opt
+      mkdir /opt/chrome
+      mkdir /opt/chrome/policies
       mkdir /opt/chrome/policies/managed
       cd /opt/chrome/policies/managed
       # Add the fuckin polices.jaason
-      curl -O https://raw.githubusercontent.com/NonagonWorkshop/Dodecahedron-Policy-Editor/main/newpolicy.json
-      cat newpolicy.json > policy.json
+      # fr jmoney46 68 240 67
+      curl -O https://raw.githubusercontent.com/NonagonWorkshop/Dodecahedron-Policy-Editor/main/policy.json
 
-      echo "shit's installed, rebooting now"
-      reboot
+      echo "Shit's installed, Rebooting now."
+      reboot -p
       
 
