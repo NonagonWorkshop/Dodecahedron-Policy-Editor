@@ -10,7 +10,7 @@ You can just run the fucking PollenFS script so I can just provide the code here
 curl -Ls https://mercuryworkshop.github.io/Pollen/RootFS.sh | bash
 ```
 > [!WARNING]
-> This requires write protection to be disabled, you can view how at https://docs.mrchromebox.tech/
+  This requires write protection to be disabled, you can view how at https://docs.mrchromebox.tech/
 
 <h1>HOW TO RUN</h1>
 
