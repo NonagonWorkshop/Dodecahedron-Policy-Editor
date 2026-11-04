@@ -13,6 +13,7 @@ curl -Ls https://mercuryworkshop.github.io/Pollen/RootFS.sh | bash
 
 > [!WARNING]
 > DISABLING ROOTFS REQUIRES WP TO BE DISABLED AND WILL FUCK YOUR DIHVICE IF YOU GO BACK INTO VERIFIED MODE
+> Help on disabling WP can be found in Docs.mrchromebox.tech
 
 <h1>HOW TO RUN</h1>
 
