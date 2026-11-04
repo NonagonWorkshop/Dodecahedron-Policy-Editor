@@ -11,6 +11,9 @@ You can just run the fucking PollenFS script so I can just provide the code here
 curl -Ls https://mercuryworkshop.github.io/Pollen/RootFS.sh | bash
 ```
 
+> [!WARNING]
+> DISABLING ROOTFS REQUIRES WP TO BE DISABLED AND WILL FUCK YOUR DIHVICE IF YOU GO BACK INTO VERIFIED MODE
+
 <h1>HOW TO RUN</h1>
 
 Step 1. Open terminal and make sure you are in root, then you want to go ahead and like `cd ..`
