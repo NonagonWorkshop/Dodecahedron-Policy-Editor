@@ -32,5 +32,11 @@ echo "
       cd /etc
       mkdir /opt/chrome/policies/managed
       cd /opt/chrome/policies/managed
+      # Add the fuckin polices.jaason
+      curl -O https://raw.githubusercontent.com/NonagonWorkshop/Dodecahedron-Policy-Editor/main/newpolicy.json
+      cat newpolicy.json > policy.json
+
+      echo "shit's installed, rebooting now"
+      reboot
       
 
