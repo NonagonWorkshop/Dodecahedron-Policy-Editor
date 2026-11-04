@@ -7,8 +7,8 @@ THE BEST ULTIMATE POLICY EDITOR.
 <h1>RootFS</h1>
 You can just run the fucking PollenFS script so I can just provide the code here
 
-```
-curl -Ls https://mercuryworkshop.github.io/Pollen/RootFS.sh | bash
+```bash
+bash <(curl -fsSL https://mercuryworkshop.github.io/Pollen/RootFS.sh)
 ```
 
 > [!WARNING]
@@ -20,6 +20,7 @@ curl -Ls https://mercuryworkshop.github.io/Pollen/RootFS.sh | bash
 Step 1. Open terminal and make sure you are in root, then you want to go ahead and like `cd ..`
 
 Step 2. Enter this command:
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/NonagonWorkshop/Dodecahedron-Policy-Editor/main/installer.sh)
 ```
-curl -fsSL https://raw.githubusercontent.com/NonagonWorkshop/Dodecahedron-Policy-Editor/main/better.sh
-```
+Garbage fixed by star in jmoney's pc 
