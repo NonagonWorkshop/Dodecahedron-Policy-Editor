@@ -22,4 +22,4 @@ Step 1. Open terminal and make sure you are in root, then you want to go ahead a
 Step 2. Enter this command:
 ```
 curl -fsSL https://raw.githubusercontent.com/NonagonWorkshop/Dodecahedron-Policy-Editor/main/better.sh
-'''
+```
