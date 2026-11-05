@@ -30,10 +30,7 @@ echo "
       because they know what they are doing, thanks"
 
       cd /etc
-      mkdir /opt
-      mkdir /opt/chrome
-      mkdir /opt/chrome/policies
-      mkdir /opt/chrome/policies/managed
+      mkdir opt/chrome/policies/managed
       cd /opt/chrome/policies/managed
       # Add the fuckin polices.jaason
       # fr jmoney46 68 240 67
